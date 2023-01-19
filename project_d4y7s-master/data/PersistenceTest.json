@@ -1,0 +1,21 @@
+{
+    "gradientCounter": 0,
+    "level": 1,
+    "maxY": 15,
+    "scoreMultiplier": 25,
+    "scoreBarVal": 0,
+    "maxX": 12,
+    "zonedThisSecond": false,
+    "levelScore": 0,
+    "zones": [],
+    "tickNum": 0,
+    "player": [{
+        "score": 0,
+        "playerPos": {
+            "x": 100,
+            "y": 100
+        },
+        "speed": 15
+    }],
+    "secondSinceStart": 0
+}

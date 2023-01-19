@@ -1,0 +1,358 @@
+{
+    "gradientCounter": 9,
+    "level": 2,
+    "maxY": 540,
+    "scoreMultiplier": 20,
+    "scoreBarVal": 20,
+    "maxX": 960,
+    "zonedThisSecond": true,
+    "levelScore": 4,
+    "zones": [
+        {
+            "botMidZonePos": {
+                "x": 824,
+                "y": 434
+            },
+            "botLeftZonePos": {
+                "x": 823,
+                "y": 434
+            },
+            "botRightZonePos": {
+                "x": 825,
+                "y": 434
+            },
+            "topLeftZonePos": {
+                "x": 823,
+                "y": 432
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 823,
+                "y": 433
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 825,
+                "y": 433
+            },
+            "topRightZonePos": {
+                "x": 825,
+                "y": 432
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 823,
+                "y": 435
+            },
+            "midMidZonePos": {
+                "x": 824,
+                "y": 433
+            },
+            "topMidZonePos": {
+                "x": 824,
+                "y": 432
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 742,
+                "y": 8
+            },
+            "botLeftZonePos": {
+                "x": 741,
+                "y": 8
+            },
+            "botRightZonePos": {
+                "x": 743,
+                "y": 8
+            },
+            "topLeftZonePos": {
+                "x": 741,
+                "y": 6
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 741,
+                "y": 7
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 743,
+                "y": 7
+            },
+            "topRightZonePos": {
+                "x": 743,
+                "y": 6
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 741,
+                "y": 9
+            },
+            "midMidZonePos": {
+                "x": 742,
+                "y": 7
+            },
+            "topMidZonePos": {
+                "x": 742,
+                "y": 6
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 586,
+                "y": 190
+            },
+            "botLeftZonePos": {
+                "x": 585,
+                "y": 190
+            },
+            "botRightZonePos": {
+                "x": 587,
+                "y": 190
+            },
+            "topLeftZonePos": {
+                "x": 585,
+                "y": 188
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 585,
+                "y": 189
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 587,
+                "y": 189
+            },
+            "topRightZonePos": {
+                "x": 587,
+                "y": 188
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 585,
+                "y": 191
+            },
+            "midMidZonePos": {
+                "x": 586,
+                "y": 189
+            },
+            "topMidZonePos": {
+                "x": 586,
+                "y": 188
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 875,
+                "y": 353
+            },
+            "botLeftZonePos": {
+                "x": 874,
+                "y": 353
+            },
+            "botRightZonePos": {
+                "x": 876,
+                "y": 353
+            },
+            "topLeftZonePos": {
+                "x": 874,
+                "y": 351
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 874,
+                "y": 352
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 876,
+                "y": 352
+            },
+            "topRightZonePos": {
+                "x": 876,
+                "y": 351
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 874,
+                "y": 354
+            },
+            "midMidZonePos": {
+                "x": 875,
+                "y": 352
+            },
+            "topMidZonePos": {
+                "x": 875,
+                "y": 351
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 249,
+                "y": 150
+            },
+            "botLeftZonePos": {
+                "x": 248,
+                "y": 150
+            },
+            "botRightZonePos": {
+                "x": 250,
+                "y": 150
+            },
+            "topLeftZonePos": {
+                "x": 248,
+                "y": 148
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 248,
+                "y": 149
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 250,
+                "y": 149
+            },
+            "topRightZonePos": {
+                "x": 250,
+                "y": 148
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 248,
+                "y": 151
+            },
+            "midMidZonePos": {
+                "x": 249,
+                "y": 149
+            },
+            "topMidZonePos": {
+                "x": 249,
+                "y": 148
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 444,
+                "y": 29
+            },
+            "botLeftZonePos": {
+                "x": 443,
+                "y": 29
+            },
+            "botRightZonePos": {
+                "x": 445,
+                "y": 29
+            },
+            "topLeftZonePos": {
+                "x": 443,
+                "y": 27
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 443,
+                "y": 28
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 445,
+                "y": 28
+            },
+            "topRightZonePos": {
+                "x": 445,
+                "y": 27
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 443,
+                "y": 30
+            },
+            "midMidZonePos": {
+                "x": 444,
+                "y": 28
+            },
+            "topMidZonePos": {
+                "x": 444,
+                "y": 27
+            }
+        },
+        {
+            "botMidZonePos": {
+                "x": 400,
+                "y": 456
+            },
+            "botLeftZonePos": {
+                "x": 399,
+                "y": 456
+            },
+            "botRightZonePos": {
+                "x": 401,
+                "y": 456
+            },
+            "topLeftZonePos": {
+                "x": 399,
+                "y": 454
+            },
+            "zoneLength": 40,
+            "midLeftZonePos": {
+                "x": 399,
+                "y": 455
+            },
+            "ticksSinceCaptured": 0,
+            "timeBeingCaptured": 0,
+            "midRightZonePos": {
+                "x": 401,
+                "y": 455
+            },
+            "topRightZonePos": {
+                "x": 401,
+                "y": 454
+            },
+            "captured": false,
+            "capturing": false,
+            "colorZone": "java.awt.Color[r=0,g=0,b=255]",
+            "textPos": {
+                "x": 399,
+                "y": 457
+            },
+            "midMidZonePos": {
+                "x": 400,
+                "y": 455
+            },
+            "topMidZonePos": {
+                "x": 400,
+                "y": 454
+            }
+        }
+    ],
+    "tickNum": 28,
+    "player": [{
+        "score": 5,
+        "playerPos": {
+            "x": 190,
+            "y": 240
+        },
+        "speed": 20
+    }],
+    "secondSinceStart": 30
+}
